@@ -4,13 +4,10 @@ url: "yushuihan"
 title: Yushui Han
 # subtitle:
 position: Ph.D. Student
-# subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-subposition_link: https://nyu-medicine-cssa.github.io
 affiliation: University of Pittsburgh
-subaffiliation: Grossman School of Medicine  
-affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
+subaffiliation: School of Computing and Information  
+
+email: yuh207@pitt.edu
 
 
 
@@ -23,11 +20,10 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
-cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+google_scholar: https://scholar.google.com/citations?user=TYWuQ-IAAAAJ&hl=en
+github_link: https://github.com/rainhan1996
+linkedin: https://www.linkedin.com/in/yushui-han-b2901b129
+twitter: https://twitter.com/yushui_han?lang=en
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
