@@ -13,7 +13,7 @@ Prior to joining the Ph.D. program, I was a cardiac imaging research fellow in T
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-Outside of academia, I am also interested in traveling, playing piano and oil painting.
+Outside of academia, I am also interested in reading, traveling, playing piano and oil painting.
 
 
 ## Research Interests
