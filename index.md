@@ -8,19 +8,19 @@ I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divi
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Dana Tudorascu</a>. My research involves developing statistical and deep learning models for age-related pathology and mutimodal neuroimaging studies in Alzheimer's Disease.
 
-Prior to joining the Ph.D. program, I was a cardiac imaging research fellow at Houston Methodist Hospital <a href="https://www.cornell.edu" target = "_blank"> at Houston, Texas</a> advised by Dr. <a href= "https://www.idiaz.xyz" target = "_blank"> Mouaz AI-mallah </a>, and my master's degree in Johns Hopkins University <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
+Prior to joining the Ph.D. program, I was a cardiac imaging research fellow in Texas at <a href="https://www.cornell.edu" target = "_blank"> Houston Methodist Hospital </a> advised by Dr. <a href= "https://www.idiaz.xyz" target = "_blank"> Mouaz AI-mallah </a>, and completed my master's degree at <a href="https://www.cueb.edu.cn" target = "_blank"> Johns Hopkins University </a>. 
 
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+Outside of academia, I am also interested in traveling, playing piano and oil painting.
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Medical Images:** multimodal cardiac and brain images processing (PET, CT, MRI)
+- **Artificial Intelligence:** deep Learning, data augmentation
+- **Clinical Data Analysis:** prognostic value of various imaging techniques, risk prediction, patient management and outcomes
+- **Brain Computer Interface:** brain signal recording, feature selection for mind-control devices
 
 
 
