@@ -18,7 +18,7 @@ Outside of academia, I am also interested in reading, traveling, playing piano a
 
 ## Research Interests
 - **Medical Images:** multimodal cardiac and brain images processing (PET, CT, MRI)
-- **Artificial Intelligence:** deep Learning, data augmentation
+- **Artificial Intelligence:** deep learning, data augmentation
 - **Clinical Data Analysis:** prognostic value of various imaging techniques, risk prediction, patient management and outcomes
 - **Brain Computer Interface:** brain signal recording, feature selection for mind-control devices
 
